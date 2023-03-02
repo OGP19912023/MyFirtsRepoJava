@@ -11,9 +11,8 @@
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-support</artifactId>
+            <artifactId>selenium-server</artifactId>
             <version>3.141.59</version>
-            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.testng</groupId>
